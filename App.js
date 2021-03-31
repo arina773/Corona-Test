@@ -26,7 +26,7 @@ export default class ProfileScreen extends Component {
             <Text style={styles.Companyname}>Test done by <Text style={{fontSize:12, fontWeight: '500'}}>Copmany name</Text></Text>
             
             <View>
-              <Image source={require('./assets/Page (1).png')} style={styles.QRcode}/>
+              <Image source={require('./assets/QRcode.png')} style={styles.QRcode}/>
               <Text style={styles.TestDate}>Scan QR code to see the results in site of</Text>
               <Text style={{fontSize:12, fontWeight: '500', alignSelf: 'center', marginTop: 10}}>National ehealth Operator</Text>
             </View>
