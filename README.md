@@ -1,2 +1,2 @@
 
-![Screenshot](https://github.com/arina773/Corona-Test/assets/prototype.png)
+![Screenshot](https://github.com/arina773/Corona-Test/blob/main/assets/prototype.png)
